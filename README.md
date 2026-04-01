@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pankaj-217/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/pankaj-217/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/pankaj-217/leetcode/tree/master/0733-flood-fill) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
