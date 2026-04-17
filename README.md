@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pankaj-217/leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/pankaj-217/leetcode/tree/master/0733-flood-fill) |
+| [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -64,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/pankaj-217/leetcode/tree/master/0047-permutations-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
