@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pankaj-217/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pankaj-217/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pankaj-217/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/pankaj-217/leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/pankaj-217/leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 ## Depth-First Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/pankaj-217/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pankaj-217/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pankaj-217/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/pankaj-217/leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/pankaj-217/leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/pankaj-217/leetcode/tree/master/0733-flood-fill) |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/pankaj-217/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
