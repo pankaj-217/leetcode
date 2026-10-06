@@ -1,36 +1,27 @@
-import java.util.*;
-
 class Solution {
-    
-    List<List<Integer>> ans = new ArrayList<>();
+    void backtrack(int ind, int candidates[], int target, List<Integer> current, List<List<Integer>> ans) {
 
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        
-        Arrays.sort(candidates); // sort array
-        solve(candidates, target, 0, new ArrayList<>());
-        return ans;
-    }
-
-    public void solve(int[] candidates, int target, int start, List<Integer> list) {
-        
         if (target == 0) {
-            ans.add(new ArrayList<>(list));
+            ans.add(new ArrayList<>(current));
             return;
         }
+        if (target < 0 || ind>=candidates.length)
+            return;
 
-        for (int i = start; i < candidates.length; i++) {
-
-            // skip duplicates
-            if (i > start && candidates[i] == candidates[i - 1]) continue;
-
-            // stop if element > target
-            if (candidates[i] > target) break;
-
-            list.add(candidates[i]);
-
-            solve(candidates, target - candidates[i], i + 1, list);
-
-            list.remove(list.size() - 1); // backtrack
+        for (int i = ind; i < candidates.length; i++) {
+            if(i>ind && candidates[i]==candidates[i-1]) continue;
+            if(candidates[i]>target) break;
+            current.add(candidates[i]);
+            backtrack(i+1, candidates, target - candidates[i], current, ans);
+            current.remove(current.size() - 1);
         }
+
+    }
+
+    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+        Arrays.sort(candidates);
+        List<List<Integer>> ans = new ArrayList<>();
+        backtrack(0, candidates, target, new ArrayList<>(), ans);
+        return ans;
     }
 }
