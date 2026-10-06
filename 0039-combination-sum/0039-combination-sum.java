@@ -1,27 +1,39 @@
 class Solution {
-    public void solve(int ind,int target,int arr[],List<List<Integer>>ans,           List<Integer>ds ){
-        if(ind==arr.length){
-        if(target==0){
-            ans.add(new ArrayList<>(ds));
-        }
+    public List<List<Integer>> combinationSum(
+            int[] candidates,
+            int target) {
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(
+                0,
+                candidates,
+                target,
+                new ArrayList<>(),
+                result);
+        return result;
+    }
+
+    void backtrack(
+            int index,
+            int[] candidates,
+            int target,
+            List<Integer> current,
+            List<List<Integer>> result) {
+        if (target == 0) {
+            result.add(new ArrayList<>(current));
             return;
         }
-
-
-        if(arr[ind]<=target){
-            ds.add(arr[ind]);
-            solve(ind,target-arr[ind],arr,ans,ds);
-            ds.remove(ds.size()-1);
+        if (target < 0) {
+            return;
         }
-        solve(ind+1,target,arr,ans,ds);
-
-
-    }
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
-       List< List<Integer>>ans=new ArrayList<>();
-       List<Integer>ds=new ArrayList<>();
-        solve(0,target,candidates,ans,ds);
-        return ans;
-
+        for (int i = index; i < candidates.length; i++) {
+            current.add(candidates[i]);
+            backtrack(
+                    i,
+                    candidates,
+                    target - candidates[i],
+                    current,
+                    result);
+            current.remove(current.size() - 1);
+        }
     }
 }
