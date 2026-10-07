@@ -86,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/pankaj-217/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pankaj-217/leetcode/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pankaj-217/leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pankaj-217/leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
