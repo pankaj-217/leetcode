@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pankaj-217/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/pankaj-217/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/pankaj-217/leetcode/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/pankaj-217/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/pankaj-217/leetcode/tree/master/0146-lru-cache) |
 ## String
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/pankaj-217/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pankaj-217/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/pankaj-217/leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/pankaj-217/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/pankaj-217/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/pankaj-217/leetcode/tree/master/0146-lru-cache) |
 ## Divide and Conquer
