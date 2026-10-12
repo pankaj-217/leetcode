@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pankaj-217/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pankaj-217/leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0733-flood-fill](https://github.com/pankaj-217/leetcode/tree/master/0733-flood-fill) |
 | [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Breadth-First Search
@@ -80,10 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/pankaj-217/leetcode/tree/master/0143-reorder-list) |
+| [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Bit Manipulation
 |  |
