@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/pankaj-217/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/pankaj-217/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pankaj-217/leetcode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pankaj-217/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/pankaj-217/leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -80,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pankaj-217/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/pankaj-217/leetcode/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pankaj-217/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Bit Manipulation
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/pankaj-217/leetcode/tree/master/0146-lru-cache) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pankaj-217/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
