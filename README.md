@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pankaj-217/leetcode/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/pankaj-217/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/pankaj-217/leetcode/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/pankaj-217/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pankaj-217/leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/pankaj-217/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/pankaj-217/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/pankaj-217/leetcode/tree/master/0739-daily-temperatures) |
 | [0962-maximum-width-ramp](https://github.com/pankaj-217/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/pankaj-217/leetcode/tree/master/0901-online-stock-span) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/pankaj-217/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
