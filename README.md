@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pankaj-217/leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pankaj-217/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/pankaj-217/leetcode/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/pankaj-217/leetcode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj-217/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/pankaj-217/leetcode/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 ## Sorting
 |  |
