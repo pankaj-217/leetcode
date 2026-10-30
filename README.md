@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pankaj-217/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/pankaj-217/leetcode/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/pankaj-217/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/pankaj-217/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/pankaj-217/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj-217/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/pankaj-217/leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/pankaj-217/leetcode/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/pankaj-217/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/pankaj-217/leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/pankaj-217/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/pankaj-217/leetcode/tree/master/0494-target-sum) |
 ## Sorting
 |  |
@@ -173,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pankaj-217/leetcode/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pankaj-217/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/pankaj-217/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
